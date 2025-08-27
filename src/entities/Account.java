@@ -7,8 +7,6 @@ public class Account {
     private Long id;
     private Double balance;
 
-    public Account{
-    }
 
     public Account(Long id, Double balance) {
         this.id = id;
